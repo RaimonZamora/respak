@@ -1,3 +1,10 @@
+// ************************************************************************
+// ResPak - A file packer for JailGames
+//
+// Author: Raimon Zamora
+//
+// ************************************************************************
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
