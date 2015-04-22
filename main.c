@@ -106,7 +106,7 @@ void do_pack()
 	
 	if (d != NULL)
 	{
-		while (ep = readdir(d))
+		while ((ep = readdir(d)))
 		{
 			if (ep->d_type != 4)
 			{
